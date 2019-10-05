@@ -1,2 +1,3 @@
-# Educational-Portal
-This is our  Software Engineering (I) course project.
+# Educational Portal
+
+{{ some description }}
